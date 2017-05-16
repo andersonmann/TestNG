@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "Test Suite">
+	<test name= "Tools QA">
+		<classes>
+			<class name="firstTestCaseWithTestNG.TestNG" />
+		</classes>
+	</test>
+</suite>
+			
+			
+			
+ 
