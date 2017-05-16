@@ -17,7 +17,7 @@ public class TestNG {
 	public WebDriver driver;
 
 	@Test
-	public void f() {
+	public void main() {
 
 		// Find the element that's ID attribute is 'account'(My Account)
 		driver.findElement(By.id("account")).click();
