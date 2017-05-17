@@ -4,6 +4,7 @@
 	<test name= "Tools QA">
 		<classes>
 			<class name="firstTestCaseWithTestNG.TestNG" />
+			<class name="firstTestCaseWithTestNG.FirstTestCase" />			
 		</classes>
 	</test>
 </suite>
